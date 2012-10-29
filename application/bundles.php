@@ -35,6 +35,4 @@
 
 return array(
 
-	'docs' => array('handles' => 'docs'),
-
 );
